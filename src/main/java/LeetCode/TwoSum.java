@@ -17,7 +17,7 @@ public class TwoSum {
 
     public static void main(String args[]) {
         int[] input = {2, 7, 11, 15};
-        System.out.println(Arrays.toString(twoSum(input, 9)));
+        System.out.println(Arrays.toString(twoSum2(input, 9)));
 
     }
 
